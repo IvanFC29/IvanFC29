@@ -21,7 +21,7 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
   </a>
 </p>
 
-### Librerias Frontend y maquetacion
+### Librerías Frontend y maquetación
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,react,bootstrap,tailwind&perline=12" />
@@ -35,12 +35,22 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
   </a>
 </p>
 
-### Tecnologias conocidas
+### Tecnologías conocidas
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vite,mysql,postgres,git,github,postman,vscode,bash,linux&perline=12" />
   </a>
 </p>
 
+
+## 🌐 Mi Portafolio Web
+
+¡Te invito a visitar mi portafolio donde muestro algunos de mis proyectos!
+
+<p align="center">
+    <a href="https://ivanfc29.github.io/portafolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Portafolio-blue?style=for-the-badge&logo=google-chrome" />
+    </a>
+</p>
 
 
