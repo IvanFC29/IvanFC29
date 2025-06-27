@@ -11,8 +11,9 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 
 <br />
 
-- ⚡ Actualmente aprendo desarrollo full-stack
-- 👩‍💻 Interesado en aprender frameworks Astro y Angular
+- 😃 Disfruto mucho del mundo de la programación y todo aquello relacionado a la tecnología 
+- 📚 Actualmente aprendo el desarrollo full-stack
+- 👩‍💻 Interesado en aprender los frameworks Astro y Angular
 
 ### Lenguajes de Programación
 <p align="left">
