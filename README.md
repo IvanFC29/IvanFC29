@@ -49,7 +49,7 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 
 <p align="center">
     <a href="https://ivanfc29.github.io/portafolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Portafolio-blue?style=for-the-badge&logo=google-chrome" />
+        <img src="https://img.shields.io/badge/Ver%20Portafolio-white?style=for-the-badge&logo=brave" />
     </a>
 </p>
 
